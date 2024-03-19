@@ -1,0 +1,33 @@
+Project Scope:
+Mobile Dating Application
+	1.1	Profile Software
+			1.1.1	Create, View, Delete Profile
+			1.1.2	Support adding photos for your profile.
+			1.1.3	Support adding a bio for your profile
+			1.1.4	Support adding hobbies for your profile
+			1.1.5	Support adding preferences for your profile
+	1.2	Mingling
+			1.2.1	Allow a user to initiate and send a mingle request to
+            another user
+			1.2.2	Allow a user to accept or reject a mingling request
+			1.2.3	Send and receive messages to accepted matches
+			1.2.4	Search messages via text query
+			1.2.5	Support blocking profiles & messages
+			1.2.6 Allow termination of current mingle
+			1.2.7	Tracks how long two users mingle with each other which is
+            used for the calculation of the compatibility score with
+            future possible matches
+	1.3	Matching
+			1.3.1	Display all other users open to mingle in the same area
+			1.3.2	Allow user to view the profiles of other users in the area
+			1.3.3	Display compatibility scores between two users based on
+            calculation of preferences and matching history
+			1.3.4	Allow a user to turn off mingling status and have
+            geographic location not be displayed to other users
+			1.3.5	Support reporting profiles
+	1.4	Geographical Tracking and Displaying
+			1.4.1	Tracks geographic location of all concurrent users
+			1.4.2 Support a graphical geographic map that displays users as
+            clickable pins and mingling hot spots
+      1.4.3 Calculates and displays mingling hot spots on map based
+            on trending and frequent mingling of users
