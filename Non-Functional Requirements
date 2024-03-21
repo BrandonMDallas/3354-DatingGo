@@ -1,0 +1,25 @@
+Non-Functional Requirements
+1. Usability
+  1.1 The app will run on both IOS and Android devices.
+2. Performance
+  2.1 The app should load all users in the area on the map within 1.5 seconds
+3. Space
+  3.1 The app should be able to use up to .025 GB per hour for the real time maps and locations. 
+4. Dependability
+  4.1 The servers should have an uptime of 98%. 
+5. Security
+  5.1 All network traffic should be sent over HTTPS. 
+6. Environmental
+  6.1 The app should be usable in all areas covered by GPS satellites. 
+7. Operational
+  7.1 There should be different geographical servers to balance all the proximal concurrent users and their requests. 
+8. Development 
+  8.1 The system should support the deployment of updates to the app in case of bugs or additional features. 
+9. Regulatory
+  9.1 The app will follow data privacy and protection laws such as the CPPA that require users to be informed how the app collects and utilizes their data as soon as they download the app.
+10. Ethical
+  10.1 User data will not be sold to 3rd party services. 
+11. Accounting 
+  11.1 An advertising model will be used that allows in-app ads to be displayed to generate revenue. The documenting of revenue from total ads displayed will follow the standards for financial reporting as defined in GAAP which most US companies follow. 
+12. Safety
+  12.1 All users must be 18 years or older to use the app. 
