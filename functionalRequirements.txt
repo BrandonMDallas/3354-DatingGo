@@ -1,0 +1,18 @@
+﻿Creating Profiles
+1. The app must allow users to customize and create their own profiles. This would include creating user bio, and changing settings to suit their individual preferences. This serves as the user’s online identity within the application.
+
+
+Setting Mingling Status
+1. To manage their visibility on the applications map, users may select their mingling status. Users in the area may see where they are when they have the mingling status set to on, as shown by a pin on the map. By setting the status to “off”, one may regulate either visibility and engagement availability by hiding their location.
+
+
+Viewing Potential Matches
+1. Within their location, users can display perspective matches as pins on a map. They may view the profile of another user by clicking on a pin. Through interactive exploration, this technology encourages user involvement by displaying potential matches based on their parameters and individual preferences. 
+
+
+Compatibility Score
+1. Using a thorough examination of user behaviors and preferences, the app determines and presents a compatibility score for every possible match. This score adds subtlety to the decision making process by assisting users in determining the probability of a good match. 
+
+
+Sending Mingling Requests
+1. Users can start a conversation with possible matches by sending them a “mingling request”. Requests are open for users to approve or reject. When accepted, they proceed to the new level, “mingle”, which allows them to have a more in-depth interaction/engagement.
